@@ -14,6 +14,10 @@ body {
   margin-bottom: 30px;
   border: 10px teal;
 }
+.portblock {
+  background-color:#fff;
+  margin-bottom: 30px;
+}
 .block-header {
   color: teal;
   font-family: Georgia, Times, "Times New Roman", serif;
@@ -36,5 +40,5 @@ body {
 .card {
   float: left;
   margin-right: 20px;
-  margin-bottom: 20px;
+  margin-top: 50px;
 }
