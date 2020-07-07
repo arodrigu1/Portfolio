@@ -6,7 +6,8 @@ main {
   margin: 80px 0;
 }
 body {
-  background-color: teal;
+  background-image: url(portback.jpg);
+  background-size: cover;
 }
 .block {
   background-color:#fff;
@@ -19,7 +20,7 @@ body {
   margin-bottom: 30px;
 }
 .block-header {
-  color: teal;
+  color: maroon;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
