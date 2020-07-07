@@ -1,0 +1,40 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+main {
+  margin: 80px 0;
+}
+body {
+  background-color: teal;
+}
+.block {
+  background-color:#fff;
+  padding: 30px;
+  margin-bottom: 30px;
+  border: 10px teal;
+}
+.block-header {
+  color: teal;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+.photo {
+  float: left;
+  width: 200px;
+  margin: 0 20px 10px 0;
+}
+.footer { 
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center
+}
+.card {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
