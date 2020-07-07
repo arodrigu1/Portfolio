@@ -25,6 +25,9 @@ body {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
+#sub-header {
+  font-family:'Satisfy', cursive;
+}
 .photo {
   float: left;
   width: 200px;
