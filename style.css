@@ -6,7 +6,7 @@ main {
   margin: 80px 0;
 }
 body {
-  background-image: url(portback.jpg);
+  background-image: url(images/portback.jpg);
   background-size: cover;
 }
 .block {
@@ -47,6 +47,8 @@ body {
 }
 .card {
   float: left;
-  margin-right: 20px;
-  margin-top: 50px;
+  margin: 50px 10px 20px 0px;
+}
+#logo {
+  font-family:'Permanent Marker', cursive;;
 }
