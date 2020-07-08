@@ -50,5 +50,11 @@ body {
   margin: 50px 10px 20px 0px;
 }
 #logo {
-  font-family:'Permanent Marker', cursive;;
+  font-family:'Permanent Marker', cursive;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: maroon;
+  }
 }
