@@ -13,7 +13,6 @@ body {
   background-color:#fff;
   padding: 30px;
   margin-bottom: 30px;
-  border: 10px maroon;
   border-radius: 25px;
 }
 .portblock {
@@ -31,6 +30,7 @@ body {
 .photo {
   float: left;
   width: 200px;
+ 
   margin: 0 20px 10px 0;
 }
 .footer { 
@@ -51,4 +51,28 @@ body {
 }
 #logo {
   font-family:'Permanent Marker', cursive;
+}
+
+.card {
+  text-align: center;
+}
+
+.card-img-top {
+  opacity:.75;
+  width: 250px;
+  height: 180px;
+  padding: 0;
+  margin: 0;
+  max-height: 182px;
+  z-index: 2;
+  
+}
+
+.card-img-top:hover {
+  opacity: 1;
+}
+
+.card-title {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
 }
